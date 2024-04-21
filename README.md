@@ -28,8 +28,8 @@
 4. (期末加分) 使用R語言完成Apriori演算法，完成資料集測試
 
 ### 資源連結
-- [輸入輸出格式](https://hackmd.io/@SQUP2IU9QOyYSTWt7YhgUw/BkCEs9J-A)
-- [資料集(!Amazon)](https://drive.google.com/drive/folders/1CZAz9yGaN6tZwzFJYjc3l5iPqWccJBF7?usp=drive_link)
+- [輸入輸出格式](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/README.md)
+- [資料集(!Amazon)](https://github.com/LIN-SHU-FAN/Algorithm-project/tree/main/data%20set)
 
 
 # 演算法設計與分析專論-paper presentation
@@ -41,7 +41,7 @@
 - **注意事項**：
   - 確保選擇的報告題目在表單中未被其他人選擇。
   - 只能選擇列表中的會議或期刊。
-    - [會議與期刊列表](https://drive.google.com/drive/folders/1hiG46BNOXV7wR8AZvvr-9nYpvD_Cypwn?usp=sharing)
+    - [會議與期刊列表](https://github.com/LIN-SHU-FAN/Algorithm-project/tree/main/Conference%20%20Journal%20list)
 
 
 Assignment of Advanced Topics in the Design and Analysis of Algorithms 
