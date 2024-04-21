@@ -41,7 +41,7 @@
 - **注意事項**：
   - 確保選擇的報告題目在表單中未被其他人選擇。
   - 只能選擇列表中的會議或期刊。
-    - [會議或期刊僅限於附件列表](https://drive.google.com/drive/folders/1hiG46BNOXV7wR8AZvvr-9nYpvD_Cypwn?usp=sharing)
+    - [會議與期刊列表](https://drive.google.com/drive/folders/1hiG46BNOXV7wR8AZvvr-9nYpvD_Cypwn?usp=sharing)
 
 
 Assignment of Advanced Topics in the Design and Analysis of Algorithms 
