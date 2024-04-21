@@ -12,8 +12,8 @@
 
 ### 資料輸出格式:
 | Frequent Itemset| Support|
-| -------- |-------- |
-| e     | 3|
-| ec     | 2|
-| ecb     |1|
-| ecba     | 1|
+| -------- |-------- |--------|
+| e     | 3|商品e的support為3|
+| ec     | 2|商品ec的support為2|
+| ecb     |1|商品ecb的support為1|
+| ecba     | 1|商品ecba的support為1|
