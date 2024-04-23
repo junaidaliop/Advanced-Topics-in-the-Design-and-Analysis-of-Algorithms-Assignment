@@ -6,7 +6,7 @@
 # 演算法設計與分析專論 - 期末專案
 
 ### 主旨
-使用Apriori演算法找出資料中所有Frequent Itemset
+Frequent patterns mining is a powerful tool to mine shopping behavior of customers. In this homework, students are asked to mine the frequent patterns from the given data. The goal is 1) to implement the Apriori algorithm and 2) to compare the scalability of the Apriori algorithm and understand the reasons.
 
 ### 分組資訊
 - 分組人數：2-3人
@@ -14,6 +14,7 @@
 - [分組表單連結](https://docs.google.com/spreadsheets/d/10T3EstBzMT_0X-2Yda3Z472SkR6nfg-g2KTn9Csh6HU/edit?usp=sharing)
 
 ### 報告規範
+- **報告繳交日期**：6/10(一)11:59:59前於tronclass繳交投影片與Apriori algorithm. **Late submission is not allowed.**
 - **報告日期**：6/11(二)-6/14(五)
 - **報告組別**：
   - 6/11(二)13:00-16:00, 組別1-10
@@ -33,11 +34,12 @@
     - 專案分工貢獻
 
 ### 評分標準
-1. 使用套件實作Apriori演算法，完成資料集測試(10%)
-2. 不使用套件實作Apriori演算法，完成資料集測試(5%)
-3. 不使用套件實作Apriori演算法，完成**大數據**資料集測試(5%)
-4. 使用R語言完成Apriori演算法，完成資料集測試(額外加分5%)
-5. **不使用套件實作禁止抄襲網路程式碼，一旦發現，本次期末專案以零分計算**
+1. 使用套件實作Apriori演算法，完成資料集測試(10%), min_support=3
+2. 不使用套件實作Apriori演算法，完成資料集測試(5%), min_support=3
+3. 不使用套件實作Apriori演算法，完成**大數據**資料集測試(5%), min_sup=0.0003, min_sup=0.0006 and min_sup=0.0009, respectively
+4. 使用R語言完成Apriori演算法，完成資料集測試(額外加分5%), min_support=3
+5. Design some mechanisms to further improve the performance of the original Apriori algorithm, e.g. TID list, Bitmap and FP-Growth. You should provide the improved program, and describe the implementation detail and the differences between your improved algorithm and the original Apriori algorithm as clearly as possible.
+6. **不使用套件實作禁止抄襲網路程式碼，一旦發現，本次期末專案以零分計算**
 ### 資源連結
 - [輸入輸出規範](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/README.md)
 
