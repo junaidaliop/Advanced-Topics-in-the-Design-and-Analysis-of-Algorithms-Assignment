@@ -39,17 +39,16 @@
 
 
 # 演算法設計與分析專論-論文報告
-- **請於4/28(日)前，至以下表單連結填寫各自要報告Paper的**：
+- **請於4/28(日)前，至以下[表單連結](https://docs.google.com/spreadsheets/d/10T3EstBzMT_0X-2Yda3Z472SkR6nfg-g2KTn9Csh6HU/edit?usp=sharing)填寫各自要報告Paper的**：
   1. **報告題目(Paper's title)**
   2. **會議/期刊名稱(Name of Conference/Journal)**
   3. **發表年份(Date of publication)**
-- **報告日期**：見附件(與專案同時還沒決定)
 - **表單連結**：[填寫報告資料表單](https://docs.google.com/spreadsheets/d/10T3EstBzMT_0X-2Yda3Z472SkR6nfg-g2KTn9Csh6HU/edit?usp=sharing)
+- **報告繳交日期**：6/9(日)11:59:59前於tronclass繳交投影片.<font color="#FF0000">Late submission is not allowed.</font>
 - **注意事項**：
+  - 只能選擇[會議與期刊列表](https://github.com/LIN-SHU-FAN/Algorithm-project/tree/main/Conference%20%20Journal%20list)中的會議或期刊
   - 確保選擇的報告題目在表單中未被其他人選擇
-  - 只能選擇列表中的會議或期刊
 
-    - [會議與期刊列表](https://github.com/LIN-SHU-FAN/Algorithm-project/tree/main/Conference%20%20Journal%20list)
 
 
 Assignment of Advanced Topics in the Design and Analysis of Algorithms 
