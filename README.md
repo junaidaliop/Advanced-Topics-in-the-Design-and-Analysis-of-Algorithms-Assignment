@@ -6,7 +6,7 @@
 # 演算法設計與分析專論 - 期末專案
 
 ### 主旨
-Frequent patterns mining is a powerful tool to mine shopping behavior of customers. In this homework, students are asked to mine the frequent patterns from the given data. The goal is 1) to implement the Apriori algorithm and 2) to compare the scalability of the Apriori algorithm and understand the reasons.
+Frequent pattern mining is a powerful tool to mine the shopping behavior of customers. In this homework, students are asked to mine the frequent patterns from the given data. The goal is 1) to implement the Apriori algorithm and 2) to compare the scalability of the Apriori algorithm and understand the reasons.
 
 ### 分組資訊
 - 分組人數：2-3人
