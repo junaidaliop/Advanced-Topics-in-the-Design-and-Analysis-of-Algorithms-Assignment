@@ -16,7 +16,7 @@ The goal is
 
 ### Group Information
 - Group Size: 2-3 people
-- Grouping Deadline： May 5th, 2024
+- Grouping Deadline： May 6th, 2024
 - [Grouping Form Link](https://docs.google.com/spreadsheets/d/10T3EstBzMT_0X-2Yda3Z472SkR6nfg-g2KTn9Csh6HU/edit?usp=sharing)
 
 ### Submission Requirements
@@ -47,7 +47,7 @@ The goal is
 
 # Paper presentation
 ### Submission Requirements
-- **Deadline for for Paper Selection** : May 5th, 2024
+- **Deadline for for Paper Selection** : May 6th, 2024
 - Students must fill out the [form](https://docs.google.com/spreadsheets/d/10T3EstBzMT_0X-2Yda3Z472SkR6nfg-g2KTn9Csh6HU/edit?usp=sharing) with the paper's title, conference/journal name, and publication date.
 - **Submission Due Date**：23:59:59 on June 10th, 2024 on Tronclass with presentation slides. **Late submission is not allowed**
 - **Note**：
