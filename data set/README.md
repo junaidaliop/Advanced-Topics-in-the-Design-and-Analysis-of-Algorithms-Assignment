@@ -1,5 +1,12 @@
 # Advanced Topics in the Design and Analysis of Algorithms
 ### Input Standards: 
+#### Each row of input data represents a single transaction, so input data omits the transaction column
+
+
+
+
+
+
 
 
 
