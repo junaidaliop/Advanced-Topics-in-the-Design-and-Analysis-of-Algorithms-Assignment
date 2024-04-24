@@ -33,7 +33,7 @@ The goal is
   - Prepared slide presentation covering data preprocessing, algorithm, quantitative and qualitative analysis, data output, and division of project roles and contributions
 
 ### Evaluation Criteria
-1. (10%) Implement the Apriori algorithm using packages with min_support=0.05 on **Data.txt** and collect the final frequent itemsets S
+1. (10%) Implement the Apriori algorithm using packages with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/normal%20data%20set/data.txt)** and collect the final frequent itemsets S
 2. (5%) Implement the Apriori algorithm without packages with min_support=0.05 on **Data.txt** and collect the final frequent itemsets S
 3. (5%) Implement the Apriori algorithm without packages with min_sup=0.0003, min_sup=0.0006, and min_sup=0.0009, respectively on **Music.txt** and collect the final frequent itemsets S
 4. (Bonus) Implement the Apriori algorithm in R with min_support=0.05 on **Data.txt** and collect the final frequent itemsets S
