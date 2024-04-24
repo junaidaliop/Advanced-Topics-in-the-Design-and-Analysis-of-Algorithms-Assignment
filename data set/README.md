@@ -1,19 +1,25 @@
-# 演算法設計與分析專論-期末專案
-### 資料輸入格式: 
+# Advanced Topics in the Design and Analysis of Algorithms
+### Input Standards: 
 
-![image](https://hackmd.io/_uploads/rJp6j5JZR.png)
-| Tid | Transaction |Meaning |
+
+
+
+| Transaction | Items|Meaning|
 | -------- | -------- |-------- |
-| 1     | 2     | 在第一筆交易購買了b商品|
-| 1     | 3     | 在第一筆交易購買了c商品|
-| 1     | 4     | 在第一筆交易購買了d商品|
-| 1     | 7     | 在第一筆交易購買了g商品|
+|1| 2,3,4,7|Customer purchase items 2, 3, 4, and 7 in transaction 1
+|2|1,2,3,4,5|Customer purchase items 1, 2, 3, 4, and 5 in transaction 2
+|3|1,3,4|Customer purchase items 1, 3, and 5 in transaction 3
+|4|3,5,6|Customer purchase items 3, 5, and 6 in transaction 4
+|5|1,2,4,5|Customer purchase items 1, 2, 4, and 5 in transaction 5
+|6|1,2,3,6|Customer purchase items 1, 2, 3, and 6 in transaction 6
+|7|4,7     | Customer purchase items 4, and 7 in transaction 7
 
 
-### 資料輸出格式:
+
+### Output Standards: 
 | Frequent Itemset| Support| Meaning|
 | -------- | -------- | -------- |
-| e     | 3|商品e的support為3|
-| ec     | 2|商品ec的support為2|
-| ecb     |1|商品ecb的support為1|
-| ecba     | 1|商品ecba的support為1|
+| 1     | 4|Support of frequent itemset 1 is 4|
+| 1,2     | 3|Support of frequent itemset 1,2 is 3|
+| 1,2,3     |2|Support of frequent itemset 1,2,3 is 2|
+| 1,2,3,4     | 1|Support of frequent itemset 1,2,3,4 is 1|
