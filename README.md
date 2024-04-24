@@ -58,7 +58,7 @@ The goal is
 
 Should you have any inquiries or concerns, please contact the teaching assistants\
 林書帆 M11217028@yuntech.edu.tw\
-黃建智 M11217029@yuntech.edu.tw\
+黃建智 M11217029@yuntech.edu.tw
 
 
 
