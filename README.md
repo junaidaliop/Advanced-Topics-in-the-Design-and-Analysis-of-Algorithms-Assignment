@@ -33,10 +33,10 @@ The goal is
   - Prepared slide presentation covering data preprocessing, algorithm, quantitative and qualitative analysis, data output, and division of project roles and contributions
 
 ### Evaluation Criteria
-1. (10%) Implement the Apriori algorithm using packages with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/normal%20data%20set/data.txt)** and collect the final frequent itemsets S
-2. (5%) Implement the Apriori algorithm without packages with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/normal%20data%20set/data.txt)** and collect the final frequent itemsets S
-3. (5%) Implement the Apriori algorithm without packages with min_sup=0.0003, min_sup=0.0006, and min_sup=0.0009, respectively on **[Music.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/tree/main/data%20set/massive%20data%20set)** and collect the final frequent itemsets S
-4. (Bonus) Implement the Apriori algorithm in R with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/normal%20data%20set/data.txt)** and collect the final frequent itemsets S
+1. (10%) Implement the Apriori algorithm using packages with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/data.txt)** and collect the final frequent itemsets S
+2. (5%) Implement the Apriori algorithm without packages with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/data.txt)** and collect the final frequent itemsets S
+3. (5%) Implement the Apriori algorithm without packages with min_sup=0.0003, min_sup=0.0006, and min_sup=0.0009, respectively on **[Music.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/Music.7z)** and collect the final frequent itemsets S
+4. (Bonus) Implement the Apriori algorithm in R with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/data.txt)** and collect the final frequent itemsets S
 
 5. (Bonus) Design some mechanisms to further improve the performance of the original Apriori algorithm, e.g. TID list, Bitmap, and FP-Growth. You should provide the improved program, and describe the implementation detail and the differences between your improved algorithm and the original Apriori algorithm as clearly as possible
 7. **Plagiarism from the internet when not using packages will result in zero for the project**
