@@ -54,7 +54,7 @@ The goal is
   - Selection must be from the provided [list of conferences and journals](https://github.com/LIN-SHU-FAN/Algorithm-project/tree/main/Conference%20%20Journal%20list)
   - Ensure no duplication of paper topics in the form
   - The paper must be from the last **three years**
-  - The paper must associated with the data mining domain only, e.g. Machine Learning and Deep Learning couldn't be present
+  - The selected papers must be closed related to design of algorithms in data science or data mining domain only, Machine Learning and Deep Learning techniques couldn't be present
 
 
 Should you have any inquiries or concerns, please contact the teaching assistants\
