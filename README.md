@@ -55,6 +55,7 @@ The goal is
   - Ensure no duplication of paper topics in the form
   - The paper must be from the last **three years**
   - The selected papers must be closed related to design of algorithms in data science or data mining domain only, Machine Learning and Deep Learning techniques couldn't be present
+  - Do not copy and paste the content of the paper presentation, prepare your presentation appropriately
 
 
 Should you have any inquiries or concerns, please contact the teaching assistants\
