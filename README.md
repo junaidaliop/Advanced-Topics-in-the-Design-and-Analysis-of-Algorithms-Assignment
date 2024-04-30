@@ -39,6 +39,7 @@ The goal is
 4. (Bonus) Implement the Apriori algorithm in R with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/data.txt)** and collect the final frequent itemsets S
 
 5. (Bonus) Design some mechanisms to further improve the performance of the original Apriori algorithm, e.g. TID list, Bitmap, and FP-Growth. You should provide the improved program, and describe the implementation detail and the differences between your improved algorithm and the original Apriori algorithm as clearly as possible
+6. (Bonus) Implement the Apriori algorithm on the real database, and analyze meaningful patterns of the shopping behavior of customers
 7. **Plagiarism from the internet when not using packages will result in zero for the project**
 ### Additional Resources
 - [Input and Output Standards](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/README.md)
