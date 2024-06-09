@@ -1,72 +1,83 @@
-# Advanced Topics in the Design and Analysis of Algorithms
+# Submission by Group 23
 
-# Assignment 
-- Final Project (20%)
-- Paper presentation (80%)
+**Members:**
+- Muhammad Junaid Ali Asif Raja (M11217073)
+- Muhammad Aown Ali (M11217077)
 
-# Final Project
+## Project Structure
 
-### Subject
-Frequent pattern mining is a powerful tool to mine the shopping behavior of customers. In this homework, students are asked to mine the frequent patterns from the given data. 
+```
+├── Code
+│   └── apriori.ipynb
+├── data set
+│   ├── data.txt
+│   ├── Groceries_dataset.csv
+│   ├── Music.txt
+│   └── README.md
+├── Group23_M11217073_M11217077_Presentation.pptx
+├── output
+│   ├── Group23_data_bonustask4_min_support=0.05.txt
+│   ├── Group23_data_task1_min_support=0.05.txt
+│   ├── Group23_data_task2_min_support=0.05.txt
+│   ├── Group23_groceries_bonustask6_min_support=0.05.txt
+│   ├── Group23_music_bonustask5_min_support=0.0003.txt
+│   ├── Group23_music_bonustask5_min_support=0.0006.txt
+│   ├── Group23_music_bonustask5_min_support=0.0009.txt
+│   ├── Group23_music_min_support=0.0003.txt
+│   ├── Group23_music_min_support=0.0006.txt
+│   └── Group23_music_min_support=0.0009.txt
+├── Apriori.yml
+└── README.md
+```
 
-The goal is 
-1. Implement the Apriori algorithm
-2. Compare the scalability of the Apriori algorithm and understand the reasons
-3. Improve the performance of the original Apriori algorithm by designing some mechanisms
+## Description
 
-### Group Information
-- Group Size: 2-3 people
-- Grouping Deadline： May 6th, 2024
-- [Grouping Form Link](https://docs.google.com/spreadsheets/d/10T3EstBzMT_0X-2Yda3Z472SkR6nfg-g2KTn9Csh6HU/edit?usp=sharing)
+This submission covers the implementation of the Apriori algorithm for frequent itemset mining using both packages and manual implementations. The tasks include handling various datasets and efficiently processing large datasets.
 
-### Submission Requirements
-- **Due Date**：23:59:59 on June 10th, 2024. Submission on Tronclass including slides and the Apriori algorithm code. **Late submission is not allowed**
-- **Presentation Dates**：June 11th to June 14th
-- **Presentation Groups**：
-  - 13:00-16:00 on June 11th, Group1 to Group10
-  - 09:00-12:00 on June 12th, Group11 to Group20
-  - 16:00-19:00 on June 13th, Group21 to Group30 
-  - 09:00-12:00 on June 14th, for students who are unable to attend the presentation at the scheduled time due to conflicts, please complete your presentation on this alternate date
-- **Presentation Duration**：No more than 20 minutes
-- **Presentation Format**：
-  - Live demo of the program
-  - Prepared slide presentation covering data preprocessing, algorithm, quantitative and qualitative analysis, data output, and division of project roles and contributions
+## Tasks
 
-### Evaluation Criteria
-1. (10%) Implement the Apriori algorithm using packages with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/data.txt)** and collect the final frequent itemsets S
-2. (5%) Implement the Apriori algorithm without packages with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/data.txt)** and collect the final frequent itemsets S
-3. (5%) Implement the Apriori algorithm without packages with min_sup=0.0003, min_sup=0.0006, and min_sup=0.0009, respectively on **[Music.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/Music.7z)** and collect the final frequent itemsets S
-4. (Bonus) Implement the Apriori algorithm in R with min_support=0.05 on **[Data.txt](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/data.txt)** and collect the final frequent itemsets S
+### Task 1: Apriori Algorithm Using Packages
+Implemented the Apriori algorithm with `mlxtend` for `data.txt` with `min_support=0.05`.
 
-5. (Bonus) Design some mechanisms to further improve the performance of the original Apriori algorithm, e.g. TID list, Bitmap, and FP-Growth. You should provide the improved program, and describe the implementation detail and the differences between your improved algorithm and the original Apriori algorithm as clearly as possible
-6. (Bonus) Implement the Apriori algorithm on the real database, and analyze meaningful patterns of the shopping behavior of customers
-7. **Plagiarism from the internet when not using packages will result in zero for the project**
-### Additional Resources
-- [Input and Output Standards](https://github.com/LIN-SHU-FAN/Algorithm-project/blob/main/data%20set/README.md)
+### Task 2: Apriori Algorithm Without Packages (min_support=0.05)
+Implemented the Apriori algorithm without packages for `data.txt` with `min_support=0.05`.
 
+### Task 3: Apriori Algorithm Without Packages (min_support=0.0003, 0.0006, 0.0009)
+Implemented the Apriori algorithm without packages for `Music.txt` with various `min_support` values, efficiently handling large datasets.
 
+### Bonus Task 4: Apriori Algorithm Using R (min_support=0.05)
+Implemented the Apriori algorithm using R for `data.txt` with `min_support=0.05`.
 
-# Paper presentation
-### Submission Requirements
-- **Deadline for for Paper Selection** : May 6th, 2024
-- Students must fill out the [form](https://docs.google.com/spreadsheets/d/10T3EstBzMT_0X-2Yda3Z472SkR6nfg-g2KTn9Csh6HU/edit?usp=sharing) with the paper's title, conference/journal name, and publication date.
-- **Submission Due Date**：23:59:59 on June 10th, 2024 on Tronclass with presentation slides. **Late submission is not allowed**
-- **Note**：
-  - Selection must be from the provided [list of conferences and journals](https://github.com/LIN-SHU-FAN/Algorithm-project/tree/main/Conference%20%20Journal%20list)
-  - Ensure no duplication of paper topics in the form
-  - The paper must be from the last **three years**
-  - The selected papers must be closed related to design of algorithms in data science or data mining domain only, Machine Learning and Deep Learning techniques couldn't be present
-  - Do not copy and paste the content of the paper presentation, prepare your presentation appropriately
+### Bonus Task 5: Improved Apriori Algorithm (FP-Growth) for Music Dataset
+Implemented the FP-Growth algorithm for `Music.txt` with `min_support` values of 0.0003, 0.0006, and 0.0009 for improved performance.
 
+### Bonus Task 6: Analyze Shopping Behavior with Groceries Dataset
+Applied the Apriori algorithm on `Groceries_dataset.csv` to analyze meaningful patterns of shopping behavior with `min_support=0.05`.
 
-Should you have any inquiries or concerns, please contact the teaching assistants\
-林書帆 M11217028@yuntech.edu.tw\
-黃建智 M11217029@yuntech.edu.tw
+## Usage
 
+### Jupyter Notebook
+Open `Code/apriori.ipynb` in Jupyter Notebook to run and view the implementations.
 
+### Output Files
+The output files for each task are stored in the `output` directory, named appropriately for each task and minimum support value.
 
+### Setting Up the Environment
 
+To set up the environment using the provided `Apriori.yml` file, run the following command:
 
+```bash
+conda env create -f Apriori.yml
+```
 
+This will create a new conda environment with all the necessary dependencies.
 
+## Presentation
 
+The project presentation is available in `Group23_M11217073_M11217077_Presentation.pptx`.
+
+## Author
+
+**Group 23**
+- Muhammad Junaid Ali Asif Raja (M11217073)
+- Muhammad Aown Ali (M11217077)
