@@ -1,0 +1,189 @@
+Frequent itemsets for min_support = 0.05:
+Itemset: ('soda',), Count: 1222, Support: 0.3135
+Itemset: ('canned beer',), Count: 644, Support: 0.1652
+Itemset: ('sausage',), Count: 803, Support: 0.2060
+Itemset: ('whole milk',), Count: 1786, Support: 0.4582
+Itemset: ('misc. beverages',), Count: 230, Support: 0.0590
+Itemset: ('hygiene articles',), Count: 204, Support: 0.0523
+Itemset: ('yogurt',), Count: 1103, Support: 0.2830
+Itemset: ('pastry',), Count: 692, Support: 0.1775
+Itemset: ('salty snack',), Count: 270, Support: 0.0693
+Itemset: ('frankfurter',), Count: 536, Support: 0.1375
+Itemset: ('beef',), Count: 466, Support: 0.1195
+Itemset: ('curd',), Count: 471, Support: 0.1208
+Itemset: ('white bread',), Count: 346, Support: 0.0888
+Itemset: ('whipped/sour cream',), Count: 603, Support: 0.1547
+Itemset: ('rolls/buns',), Count: 1363, Support: 0.3497
+Itemset: ('tropical fruit',), Count: 911, Support: 0.2337
+Itemset: ('butter milk',), Count: 253, Support: 0.0649
+Itemset: ('butter',), Count: 493, Support: 0.1265
+Itemset: ('frozen vegetables',), Count: 400, Support: 0.1026
+Itemset: ('sugar',), Count: 257, Support: 0.0659
+Itemset: ('specialty chocolate',), Count: 228, Support: 0.0585
+Itemset: ('other vegetables',), Count: 1468, Support: 0.3766
+Itemset: ('root vegetables',), Count: 899, Support: 0.2306
+Itemset: ('frozen meals',), Count: 245, Support: 0.0629
+Itemset: ('pip fruit',), Count: 665, Support: 0.1706
+Itemset: ('chocolate',), Count: 337, Support: 0.0865
+Itemset: ('shopping bags',), Count: 656, Support: 0.1683
+Itemset: ('margarine',), Count: 456, Support: 0.1170
+Itemset: ('chicken',), Count: 392, Support: 0.1006
+Itemset: ('bottled water',), Count: 833, Support: 0.2137
+Itemset: ('bottled beer',), Count: 619, Support: 0.1588
+Itemset: ('hamburger meat',), Count: 313, Support: 0.0803
+Itemset: ('dessert',), Count: 337, Support: 0.0865
+Itemset: ('domestic eggs',), Count: 519, Support: 0.1331
+Itemset: ('newspapers',), Count: 545, Support: 0.1398
+Itemset: ('coffee',), Count: 448, Support: 0.1149
+Itemset: ('specialty bar',), Count: 205, Support: 0.0526
+Itemset: ('UHT-milk',), Count: 306, Support: 0.0785
+Itemset: ('sliced cheese',), Count: 202, Support: 0.0518
+Itemset: ('citrus fruit',), Count: 723, Support: 0.1855
+Itemset: ('grapes',), Count: 214, Support: 0.0549
+Itemset: ('candy',), Count: 210, Support: 0.0539
+Itemset: ('onions',), Count: 297, Support: 0.0762
+Itemset: ('brown bread',), Count: 530, Support: 0.1360
+Itemset: ('meat',), Count: 248, Support: 0.0636
+Itemset: ('hard cheese',), Count: 208, Support: 0.0534
+Itemset: ('napkins',), Count: 317, Support: 0.0813
+Itemset: ('fruit/vegetable juice',), Count: 487, Support: 0.1249
+Itemset: ('oil',), Count: 217, Support: 0.0557
+Itemset: ('berries',), Count: 311, Support: 0.0798
+Itemset: ('beverages',), Count: 242, Support: 0.0621
+Itemset: ('long life bakery product',), Count: 255, Support: 0.0654
+Itemset: ('ham',), Count: 247, Support: 0.0634
+Itemset: ('cream cheese ',), Count: 345, Support: 0.0885
+Itemset: ('pork',), Count: 516, Support: 0.1324
+Itemset: ('ice cream',), Count: 220, Support: 0.0564
+Itemset: ('waffles',), Count: 269, Support: 0.0690
+Itemset: ('beef', 'other vegetables'), Count: 198, Support: 0.0508
+Itemset: ('beef', 'whole milk'), Count: 250, Support: 0.0641
+Itemset: ('bottled beer', 'other vegetables'), Count: 267, Support: 0.0685
+Itemset: ('bottled beer', 'rolls/buns'), Count: 246, Support: 0.0631
+Itemset: ('bottled beer', 'soda'), Count: 215, Support: 0.0552
+Itemset: ('bottled beer', 'whole milk'), Count: 333, Support: 0.0854
+Itemset: ('bottled water', 'other vegetables'), Count: 366, Support: 0.0939
+Itemset: ('bottled water', 'rolls/buns'), Count: 309, Support: 0.0793
+Itemset: ('bottled water', 'root vegetables'), Count: 211, Support: 0.0541
+Itemset: ('bottled water', 'soda'), Count: 297, Support: 0.0762
+Itemset: ('bottled water', 'tropical fruit'), Count: 220, Support: 0.0564
+Itemset: ('bottled water', 'whole milk'), Count: 438, Support: 0.1124
+Itemset: ('bottled water', 'yogurt'), Count: 259, Support: 0.0664
+Itemset: ('brown bread', 'other vegetables'), Count: 233, Support: 0.0598
+Itemset: ('brown bread', 'rolls/buns'), Count: 208, Support: 0.0534
+Itemset: ('brown bread', 'whole milk'), Count: 272, Support: 0.0698
+Itemset: ('butter', 'other vegetables'), Count: 223, Support: 0.0572
+Itemset: ('butter', 'whole milk'), Count: 258, Support: 0.0662
+Itemset: ('canned beer', 'other vegetables'), Count: 262, Support: 0.0672
+Itemset: ('canned beer', 'rolls/buns'), Count: 260, Support: 0.0667
+Itemset: ('canned beer', 'soda'), Count: 213, Support: 0.0546
+Itemset: ('canned beer', 'whole milk'), Count: 340, Support: 0.0872
+Itemset: ('canned beer', 'yogurt'), Count: 202, Support: 0.0518
+Itemset: ('chicken', 'whole milk'), Count: 195, Support: 0.0500
+Itemset: ('citrus fruit', 'other vegetables'), Count: 302, Support: 0.0775
+Itemset: ('citrus fruit', 'rolls/buns'), Count: 280, Support: 0.0718
+Itemset: ('citrus fruit', 'soda'), Count: 254, Support: 0.0652
+Itemset: ('citrus fruit', 'whole milk'), Count: 360, Support: 0.0924
+Itemset: ('citrus fruit', 'yogurt'), Count: 227, Support: 0.0582
+Itemset: ('coffee', 'whole milk'), Count: 215, Support: 0.0552
+Itemset: ('curd', 'other vegetables'), Count: 201, Support: 0.0516
+Itemset: ('curd', 'rolls/buns'), Count: 195, Support: 0.0500
+Itemset: ('curd', 'whole milk'), Count: 248, Support: 0.0636
+Itemset: ('domestic eggs', 'other vegetables'), Count: 212, Support: 0.0544
+Itemset: ('domestic eggs', 'rolls/buns'), Count: 205, Support: 0.0526
+Itemset: ('domestic eggs', 'whole milk'), Count: 274, Support: 0.0703
+Itemset: ('frankfurter', 'other vegetables'), Count: 238, Support: 0.0611
+Itemset: ('frankfurter', 'rolls/buns'), Count: 215, Support: 0.0552
+Itemset: ('frankfurter', 'soda'), Count: 199, Support: 0.0511
+Itemset: ('frankfurter', 'whole milk'), Count: 265, Support: 0.0680
+Itemset: ('frozen vegetables', 'whole milk'), Count: 215, Support: 0.0552
+Itemset: ('fruit/vegetable juice', 'other vegetables'), Count: 205, Support: 0.0526
+Itemset: ('fruit/vegetable juice', 'rolls/buns'), Count: 209, Support: 0.0536
+Itemset: ('fruit/vegetable juice', 'whole milk'), Count: 243, Support: 0.0623
+Itemset: ('margarine', 'other vegetables'), Count: 195, Support: 0.0500
+Itemset: ('margarine', 'whole milk'), Count: 232, Support: 0.0595
+Itemset: ('newspapers', 'other vegetables'), Count: 201, Support: 0.0516
+Itemset: ('newspapers', 'rolls/buns'), Count: 223, Support: 0.0572
+Itemset: ('newspapers', 'whole milk'), Count: 282, Support: 0.0723
+Itemset: ('other vegetables', 'pastry'), Count: 279, Support: 0.0716
+Itemset: ('other vegetables', 'pip fruit'), Count: 282, Support: 0.0723
+Itemset: ('other vegetables', 'pork'), Count: 217, Support: 0.0557
+Itemset: ('other vegetables', 'rolls/buns'), Count: 572, Support: 0.1467
+Itemset: ('other vegetables', 'root vegetables'), Count: 367, Support: 0.0942
+Itemset: ('other vegetables', 'sausage'), Count: 362, Support: 0.0929
+Itemset: ('other vegetables', 'shopping bags'), Count: 285, Support: 0.0731
+Itemset: ('other vegetables', 'soda'), Count: 484, Support: 0.1242
+Itemset: ('other vegetables', 'tropical fruit'), Count: 356, Support: 0.0913
+Itemset: ('other vegetables', 'whipped/sour cream'), Count: 261, Support: 0.0670
+Itemset: ('other vegetables', 'whole milk'), Count: 746, Support: 0.1914
+Itemset: ('other vegetables', 'yogurt'), Count: 469, Support: 0.1203
+Itemset: ('pastry', 'rolls/buns'), Count: 271, Support: 0.0695
+Itemset: ('pastry', 'soda'), Count: 246, Support: 0.0631
+Itemset: ('pastry', 'whole milk'), Count: 355, Support: 0.0911
+Itemset: ('pastry', 'yogurt'), Count: 226, Support: 0.0580
+Itemset: ('pip fruit', 'rolls/buns'), Count: 262, Support: 0.0672
+Itemset: ('pip fruit', 'soda'), Count: 236, Support: 0.0605
+Itemset: ('pip fruit', 'whole milk'), Count: 339, Support: 0.0870
+Itemset: ('pip fruit', 'yogurt'), Count: 221, Support: 0.0567
+Itemset: ('pork', 'whole milk'), Count: 261, Support: 0.0670
+Itemset: ('rolls/buns', 'root vegetables'), Count: 354, Support: 0.0908
+Itemset: ('rolls/buns', 'sausage'), Count: 321, Support: 0.0823
+Itemset: ('rolls/buns', 'shopping bags'), Count: 268, Support: 0.0688
+Itemset: ('rolls/buns', 'soda'), Count: 467, Support: 0.1198
+Itemset: ('rolls/buns', 'tropical fruit'), Count: 344, Support: 0.0883
+Itemset: ('rolls/buns', 'whipped/sour cream'), Count: 228, Support: 0.0585
+Itemset: ('rolls/buns', 'whole milk'), Count: 696, Support: 0.1786
+Itemset: ('rolls/buns', 'yogurt'), Count: 434, Support: 0.1113
+Itemset: ('root vegetables', 'sausage'), Count: 219, Support: 0.0562
+Itemset: ('root vegetables', 'soda'), Count: 317, Support: 0.0813
+Itemset: ('root vegetables', 'tropical fruit'), Count: 224, Support: 0.0575
+Itemset: ('root vegetables', 'whole milk'), Count: 441, Support: 0.1131
+Itemset: ('root vegetables', 'yogurt'), Count: 279, Support: 0.0716
+Itemset: ('sausage', 'soda'), Count: 301, Support: 0.0772
+Itemset: ('sausage', 'tropical fruit'), Count: 213, Support: 0.0546
+Itemset: ('sausage', 'whole milk'), Count: 417, Support: 0.1070
+Itemset: ('sausage', 'yogurt'), Count: 294, Support: 0.0754
+Itemset: ('shopping bags', 'soda'), Count: 252, Support: 0.0646
+Itemset: ('shopping bags', 'whole milk'), Count: 356, Support: 0.0913
+Itemset: ('shopping bags', 'yogurt'), Count: 214, Support: 0.0549
+Itemset: ('soda', 'tropical fruit'), Count: 319, Support: 0.0818
+Itemset: ('soda', 'whole milk'), Count: 589, Support: 0.1511
+Itemset: ('soda', 'yogurt'), Count: 380, Support: 0.0975
+Itemset: ('tropical fruit', 'whole milk'), Count: 454, Support: 0.1165
+Itemset: ('tropical fruit', 'yogurt'), Count: 295, Support: 0.0757
+Itemset: ('whipped/sour cream', 'whole milk'), Count: 311, Support: 0.0798
+Itemset: ('whole milk', 'yogurt'), Count: 587, Support: 0.1506
+Itemset: ('bottled water', 'other vegetables', 'whole milk'), Count: 219, Support: 0.0562
+Itemset: ('other vegetables', 'rolls/buns', 'soda'), Count: 205, Support: 0.0526
+Itemset: ('other vegetables', 'rolls/buns', 'whole milk'), Count: 320, Support: 0.0821
+Itemset: ('other vegetables', 'rolls/buns', 'yogurt'), Count: 204, Support: 0.0523
+Itemset: ('other vegetables', 'sausage', 'whole milk'), Count: 196, Support: 0.0503
+Itemset: ('other vegetables', 'soda', 'whole milk'), Count: 270, Support: 0.0693
+Itemset: ('other vegetables', 'tropical fruit', 'whole milk'), Count: 197, Support: 0.0505
+Itemset: ('other vegetables', 'whole milk', 'yogurt'), Count: 280, Support: 0.0718
+Itemset: ('rolls/buns', 'soda', 'whole milk'), Count: 254, Support: 0.0652
+Itemset: ('rolls/buns', 'whole milk', 'yogurt'), Count: 257, Support: 0.0659
+Itemset: ('soda', 'whole milk', 'yogurt'), Count: 212, Support: 0.0544
+Top 10 Frequent Itemsets:
+Itemset: ('whole milk',), Count: 1786, Support: 0.4582
+Itemset: ('other vegetables',), Count: 1468, Support: 0.3766
+Itemset: ('rolls/buns',), Count: 1363, Support: 0.3497
+Itemset: ('soda',), Count: 1222, Support: 0.3135
+Itemset: ('yogurt',), Count: 1103, Support: 0.2830
+Itemset: ('tropical fruit',), Count: 911, Support: 0.2337
+Itemset: ('root vegetables',), Count: 899, Support: 0.2306
+Itemset: ('bottled water',), Count: 833, Support: 0.2137
+Itemset: ('sausage',), Count: 803, Support: 0.2060
+Itemset: ('other vegetables', 'whole milk'), Count: 746, Support: 0.1914
+
+Top 10 Association Rules:
+Rule: ('other vegetables', 'tropical fruit') -> ('whole milk',), Support: 0.0505, Confidence: 0.5534, Lift: 42680.9101
+Rule: ('other vegetables', 'sausage') -> ('whole milk',), Support: 0.0503, Confidence: 0.5414, Lift: 41973.4917
+Rule: ('bottled water', 'other vegetables') -> ('whole milk',), Support: 0.0562, Confidence: 0.5984, Lift: 41514.7650
+Rule: ('soda', 'yogurt') -> ('whole milk',), Support: 0.0544, Confidence: 0.5579, Lift: 39985.2737
+Rule: ('chicken',) -> ('whole milk',), Support: 0.0500, Confidence: 0.4974, Lift: 38761.2347
+Rule: ('frozen vegetables',) -> ('whole milk',), Support: 0.0552, Confidence: 0.5375, Lift: 37986.0100
+Rule: ('sausage', 'whole milk') -> ('other vegetables',), Support: 0.0503, Confidence: 0.4700, Lift: 36437.4197
+Rule: ('rolls/buns', 'yogurt') -> ('other vegetables',), Support: 0.0523, Confidence: 0.4700, Lift: 35010.1475
+Rule: ('rolls/buns', 'yogurt') -> ('whole milk',), Support: 0.0659, Confidence: 0.5922, Lift: 35010.1475
+Rule: ('bottled water', 'whole milk') -> ('other vegetables',), Support: 0.0562, Confidence: 0.5000, Lift: 34690.4201

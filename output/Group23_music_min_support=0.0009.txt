@@ -1,0 +1,37 @@
+Frequent itemsets for min_support = 0.0009:
+Itemset: ('148606',), Count: 3116, Support: 0.001439
+Itemset: ('150945',), Count: 3122, Support: 0.001442
+Itemset: ('274107',), Count: 3119, Support: 0.001440
+Itemset: ('383986',), Count: 3127, Support: 0.001444
+Itemset: ('448821',), Count: 3127, Support: 0.001444
+Itemset: ('30312',), Count: 1949, Support: 0.000900
+Itemset: ('32228',), Count: 1949, Support: 0.000900
+Itemset: ('1477',), Count: 2002, Support: 0.000925
+Itemset: ('468723',), Count: 2002, Support: 0.000925
+Itemset: ('1477', '468723'), Count: 2002, Support: 0.000925
+Itemset: ('148606', '150945'), Count: 3109, Support: 0.001436
+Itemset: ('148606', '274107'), Count: 3106, Support: 0.001434
+Itemset: ('148606', '383986'), Count: 3114, Support: 0.001438
+Itemset: ('148606', '448821'), Count: 3114, Support: 0.001438
+Itemset: ('150945', '274107'), Count: 3112, Support: 0.001437
+Itemset: ('150945', '383986'), Count: 3120, Support: 0.001441
+Itemset: ('150945', '448821'), Count: 3120, Support: 0.001441
+Itemset: ('274107', '383986'), Count: 3119, Support: 0.001440
+Itemset: ('274107', '448821'), Count: 3119, Support: 0.001440
+Itemset: ('383986', '448821'), Count: 3127, Support: 0.001444
+Itemset: ('148606', '150945', '274107'), Count: 3099, Support: 0.001431
+Itemset: ('148606', '150945', '383986'), Count: 3107, Support: 0.001435
+Itemset: ('148606', '150945', '448821'), Count: 3107, Support: 0.001435
+Itemset: ('148606', '274107', '383986'), Count: 3106, Support: 0.001434
+Itemset: ('148606', '274107', '448821'), Count: 3106, Support: 0.001434
+Itemset: ('148606', '383986', '448821'), Count: 3114, Support: 0.001438
+Itemset: ('150945', '274107', '383986'), Count: 3112, Support: 0.001437
+Itemset: ('150945', '274107', '448821'), Count: 3112, Support: 0.001437
+Itemset: ('150945', '383986', '448821'), Count: 3120, Support: 0.001441
+Itemset: ('274107', '383986', '448821'), Count: 3119, Support: 0.001440
+Itemset: ('148606', '150945', '274107', '383986'), Count: 3099, Support: 0.001431
+Itemset: ('148606', '150945', '274107', '448821'), Count: 3099, Support: 0.001431
+Itemset: ('148606', '150945', '383986', '448821'), Count: 3107, Support: 0.001435
+Itemset: ('148606', '274107', '383986', '448821'), Count: 3106, Support: 0.001434
+Itemset: ('150945', '274107', '383986', '448821'), Count: 3112, Support: 0.001437
+Itemset: ('148606', '150945', '274107', '383986', '448821'), Count: 3099, Support: 0.001431

@@ -1,0 +1,40 @@
+
+Min Support: 0.000900 (Count: 1948)
+Frequent Patterns:
+Pattern: ('30312',), Count: 1949, Support: 0.000900
+Pattern: ('30312', '32228'), Count: 1948, Support: 0.000900
+Pattern: ('32228',), Count: 1949, Support: 0.000900
+Pattern: ('1477',), Count: 2002, Support: 0.000925
+Pattern: ('1477', '468723'), Count: 2002, Support: 0.000925
+Pattern: ('468723',), Count: 2002, Support: 0.000925
+Pattern: ('148606', '150945', '274107'), Count: 3099, Support: 0.001431
+Pattern: ('148606', '274107', '383986'), Count: 3106, Support: 0.001434
+Pattern: ('148606', '274107', '448821'), Count: 3106, Support: 0.001434
+Pattern: ('148606', '150945', '274107', '383986'), Count: 3099, Support: 0.001431
+Pattern: ('148606', '150945', '274107', '448821'), Count: 3099, Support: 0.001431
+Pattern: ('148606', '274107', '383986', '448821'), Count: 3106, Support: 0.001434
+Pattern: ('148606', '150945', '274107', '383986', '448821'), Count: 3099, Support: 0.001431
+Pattern: ('148606', '274107'), Count: 3106, Support: 0.001434
+Pattern: ('148606', '150945', '383986'), Count: 3107, Support: 0.001435
+Pattern: ('148606', '150945', '448821'), Count: 3107, Support: 0.001435
+Pattern: ('148606', '150945', '383986', '448821'), Count: 3107, Support: 0.001435
+Pattern: ('148606', '150945'), Count: 3109, Support: 0.001436
+Pattern: ('148606', '448821'), Count: 3114, Support: 0.001438
+Pattern: ('148606', '383986', '448821'), Count: 3114, Support: 0.001438
+Pattern: ('148606', '383986'), Count: 3114, Support: 0.001438
+Pattern: ('148606',), Count: 3116, Support: 0.001439
+Pattern: ('150945', '274107'), Count: 3112, Support: 0.001437
+Pattern: ('274107', '448821'), Count: 3119, Support: 0.001440
+Pattern: ('274107', '383986'), Count: 3119, Support: 0.001440
+Pattern: ('150945', '274107', '448821'), Count: 3112, Support: 0.001437
+Pattern: ('150945', '274107', '383986'), Count: 3112, Support: 0.001437
+Pattern: ('274107', '383986', '448821'), Count: 3119, Support: 0.001440
+Pattern: ('150945', '274107', '383986', '448821'), Count: 3112, Support: 0.001437
+Pattern: ('274107',), Count: 3119, Support: 0.001440
+Pattern: ('150945', '448821'), Count: 3120, Support: 0.001441
+Pattern: ('150945', '383986'), Count: 3120, Support: 0.001441
+Pattern: ('150945', '383986', '448821'), Count: 3120, Support: 0.001441
+Pattern: ('150945',), Count: 3122, Support: 0.001442
+Pattern: ('383986',), Count: 3127, Support: 0.001444
+Pattern: ('383986', '448821'), Count: 3127, Support: 0.001444
+Pattern: ('448821',), Count: 3127, Support: 0.001444
